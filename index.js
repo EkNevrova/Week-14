@@ -41,7 +41,7 @@ function changePhoto(operation) {
     }
 }
 
-// section ***fromText      => НЕ ДОДЕЛАНО! 
+// section ***fromText      => !НЕ ДОДЕЛАНО! 
 function check() {
     let year = document.getElementById("year").value;
     if (year % 4 === 0 ) {
